@@ -1,0 +1,19 @@
+Luiz Henrique Rodrigues Siqueira
+Inicio atividade
+
+variaveis
+decimal (cotacao, dol, real, total)
+
+ESCREVA "Converção de dolar para real (minimo 10 reais)"
+
+ESCREVA "digite a cotação do do dolar"
+LEIA cotacao
+ESCREVA "quantos dolares voce quer converter ?"
+ESCREVA "lembre - se de colocar mais de 10 reais"
+LEIA dol
+total <- dol * real
+
+ESCREVA "a converção deu :"
+ESCREVA total
+
+Fim atividade
